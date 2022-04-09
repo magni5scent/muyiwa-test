@@ -1,0 +1,22 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+    color: khaki;
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large
+}
+
+a{
+    color: greenyellow;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+}
